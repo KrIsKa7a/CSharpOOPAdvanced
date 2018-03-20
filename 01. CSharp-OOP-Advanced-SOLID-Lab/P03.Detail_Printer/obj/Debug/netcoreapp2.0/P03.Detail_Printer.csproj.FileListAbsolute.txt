@@ -1,0 +1,10 @@
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp2.0\P03.Detail_Printer.deps.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp2.0\P03.Detail_Printer.runtimeconfig.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp2.0\P03.Detail_Printer.runtimeconfig.dev.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp2.0\P03.Detail_Printer.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp2.0\P03.Detail_Printer.pdb
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.csproj.CoreCompileInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.AssemblyInfoInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.AssemblyInfo.cs
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.pdb
