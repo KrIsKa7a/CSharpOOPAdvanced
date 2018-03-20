@@ -1,0 +1,11 @@
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp2.0\P04.Recharge.deps.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp2.0\P04.Recharge.runtimeconfig.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp2.0\P04.Recharge.runtimeconfig.dev.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp2.0\P04.Recharge.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp2.0\P04.Recharge.pdb
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.csprojResolveAssemblyReference.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.csproj.CoreCompileInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.AssemblyInfoInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.AssemblyInfo.cs
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.pdb
