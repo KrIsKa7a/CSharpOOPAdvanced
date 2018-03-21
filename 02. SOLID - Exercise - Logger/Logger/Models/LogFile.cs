@@ -49,6 +49,7 @@ namespace Logger.Models
             var text = File.ReadAllText(this.Path);
 
             return text.ToCharArray()
+				.Where(c => Char.IsLetter(c))
                 .Sum(c => (int)c);
         }
     }
