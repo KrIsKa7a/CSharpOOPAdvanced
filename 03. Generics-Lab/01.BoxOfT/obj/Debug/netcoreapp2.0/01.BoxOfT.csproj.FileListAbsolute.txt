@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\Generics-Lab_do\01.BoxOfT\bin\Debug\netcoreapp2.0\01.BoxOfT.deps.json
+D:\VisualStudio2017 Projects\Generics-Lab_do\01.BoxOfT\bin\Debug\netcoreapp2.0\01.BoxOfT.runtimeconfig.json
+D:\VisualStudio2017 Projects\Generics-Lab_do\01.BoxOfT\bin\Debug\netcoreapp2.0\01.BoxOfT.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\Generics-Lab_do\01.BoxOfT\bin\Debug\netcoreapp2.0\01.BoxOfT.dll
+D:\VisualStudio2017 Projects\Generics-Lab_do\01.BoxOfT\bin\Debug\netcoreapp2.0\01.BoxOfT.pdb
+D:\VisualStudio2017 Projects\Generics-Lab_do\01.BoxOfT\obj\Debug\netcoreapp2.0\01.BoxOfT.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\Generics-Lab_do\01.BoxOfT\obj\Debug\netcoreapp2.0\01.BoxOfT.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\Generics-Lab_do\01.BoxOfT\obj\Debug\netcoreapp2.0\01.BoxOfT.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\Generics-Lab_do\01.BoxOfT\obj\Debug\netcoreapp2.0\01.BoxOfT.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\Generics-Lab_do\01.BoxOfT\obj\Debug\netcoreapp2.0\01.BoxOfT.dll
+D:\VisualStudio2017 Projects\Generics-Lab_do\01.BoxOfT\obj\Debug\netcoreapp2.0\01.BoxOfT.pdb
