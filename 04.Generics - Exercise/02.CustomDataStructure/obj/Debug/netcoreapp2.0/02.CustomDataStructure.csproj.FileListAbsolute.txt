@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\Generics-Exercise1\02.CustomDataStructure\bin\Debug\netcoreapp2.0\02.CustomDataStructure.deps.json
+D:\VisualStudio2017 Projects\Generics-Exercise1\02.CustomDataStructure\bin\Debug\netcoreapp2.0\02.CustomDataStructure.runtimeconfig.json
+D:\VisualStudio2017 Projects\Generics-Exercise1\02.CustomDataStructure\bin\Debug\netcoreapp2.0\02.CustomDataStructure.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\Generics-Exercise1\02.CustomDataStructure\bin\Debug\netcoreapp2.0\02.CustomDataStructure.dll
+D:\VisualStudio2017 Projects\Generics-Exercise1\02.CustomDataStructure\bin\Debug\netcoreapp2.0\02.CustomDataStructure.pdb
+D:\VisualStudio2017 Projects\Generics-Exercise1\02.CustomDataStructure\obj\Debug\netcoreapp2.0\02.CustomDataStructure.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\Generics-Exercise1\02.CustomDataStructure\obj\Debug\netcoreapp2.0\02.CustomDataStructure.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\Generics-Exercise1\02.CustomDataStructure\obj\Debug\netcoreapp2.0\02.CustomDataStructure.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\Generics-Exercise1\02.CustomDataStructure\obj\Debug\netcoreapp2.0\02.CustomDataStructure.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\Generics-Exercise1\02.CustomDataStructure\obj\Debug\netcoreapp2.0\02.CustomDataStructure.dll
+D:\VisualStudio2017 Projects\Generics-Exercise1\02.CustomDataStructure\obj\Debug\netcoreapp2.0\02.CustomDataStructure.pdb

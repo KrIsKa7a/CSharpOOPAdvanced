@@ -1,0 +1,10 @@
+D:\VisualStudio2017 Projects\Generics-Exercise1\03.Tuple\bin\Debug\netcoreapp2.0\03.Tuple.deps.json
+D:\VisualStudio2017 Projects\Generics-Exercise1\03.Tuple\bin\Debug\netcoreapp2.0\03.Tuple.runtimeconfig.json
+D:\VisualStudio2017 Projects\Generics-Exercise1\03.Tuple\bin\Debug\netcoreapp2.0\03.Tuple.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\Generics-Exercise1\03.Tuple\bin\Debug\netcoreapp2.0\03.Tuple.dll
+D:\VisualStudio2017 Projects\Generics-Exercise1\03.Tuple\bin\Debug\netcoreapp2.0\03.Tuple.pdb
+D:\VisualStudio2017 Projects\Generics-Exercise1\03.Tuple\obj\Debug\netcoreapp2.0\03.Tuple.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\Generics-Exercise1\03.Tuple\obj\Debug\netcoreapp2.0\03.Tuple.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\Generics-Exercise1\03.Tuple\obj\Debug\netcoreapp2.0\03.Tuple.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\Generics-Exercise1\03.Tuple\obj\Debug\netcoreapp2.0\03.Tuple.dll
+D:\VisualStudio2017 Projects\Generics-Exercise1\03.Tuple\obj\Debug\netcoreapp2.0\03.Tuple.pdb
