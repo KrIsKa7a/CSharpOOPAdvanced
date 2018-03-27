@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Lab\01.Library\bin\Debug\netcoreapp2.0\01.Library.deps.json
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Lab\01.Library\bin\Debug\netcoreapp2.0\01.Library.runtimeconfig.json
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Lab\01.Library\bin\Debug\netcoreapp2.0\01.Library.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Lab\01.Library\bin\Debug\netcoreapp2.0\01.Library.dll
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Lab\01.Library\bin\Debug\netcoreapp2.0\01.Library.pdb
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Lab\01.Library\obj\Debug\netcoreapp2.0\01.Library.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Lab\01.Library\obj\Debug\netcoreapp2.0\01.Library.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Lab\01.Library\obj\Debug\netcoreapp2.0\01.Library.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Lab\01.Library\obj\Debug\netcoreapp2.0\01.Library.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Lab\01.Library\obj\Debug\netcoreapp2.0\01.Library.dll
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Lab\01.Library\obj\Debug\netcoreapp2.0\01.Library.pdb
