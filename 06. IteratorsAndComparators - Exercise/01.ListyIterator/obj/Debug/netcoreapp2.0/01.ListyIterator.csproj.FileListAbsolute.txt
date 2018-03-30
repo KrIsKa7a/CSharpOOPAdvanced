@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\01.ListyIterator\bin\Debug\netcoreapp2.0\01.ListyIterator.deps.json
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\01.ListyIterator\bin\Debug\netcoreapp2.0\01.ListyIterator.runtimeconfig.json
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\01.ListyIterator\bin\Debug\netcoreapp2.0\01.ListyIterator.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\01.ListyIterator\bin\Debug\netcoreapp2.0\01.ListyIterator.dll
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\01.ListyIterator\bin\Debug\netcoreapp2.0\01.ListyIterator.pdb
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.dll
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\netcoreapp2.0\01.ListyIterator.pdb

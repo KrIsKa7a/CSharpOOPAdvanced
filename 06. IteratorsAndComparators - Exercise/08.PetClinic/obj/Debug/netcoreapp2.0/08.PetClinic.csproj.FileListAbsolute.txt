@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\08.PetClinic\bin\Debug\netcoreapp2.0\08.PetClinic.deps.json
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\08.PetClinic\bin\Debug\netcoreapp2.0\08.PetClinic.runtimeconfig.json
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\08.PetClinic\bin\Debug\netcoreapp2.0\08.PetClinic.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\08.PetClinic\bin\Debug\netcoreapp2.0\08.PetClinic.dll
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\08.PetClinic\bin\Debug\netcoreapp2.0\08.PetClinic.pdb
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.dll
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.pdb

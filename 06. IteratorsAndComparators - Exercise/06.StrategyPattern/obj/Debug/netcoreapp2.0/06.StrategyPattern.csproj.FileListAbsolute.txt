@@ -1,0 +1,10 @@
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\06.StrategyPattern\bin\Debug\netcoreapp2.0\06.StrategyPattern.deps.json
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\06.StrategyPattern\bin\Debug\netcoreapp2.0\06.StrategyPattern.runtimeconfig.json
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\06.StrategyPattern\bin\Debug\netcoreapp2.0\06.StrategyPattern.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\06.StrategyPattern\bin\Debug\netcoreapp2.0\06.StrategyPattern.dll
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\06.StrategyPattern\bin\Debug\netcoreapp2.0\06.StrategyPattern.pdb
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\06.StrategyPattern\obj\Debug\netcoreapp2.0\06.StrategyPattern.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\06.StrategyPattern\obj\Debug\netcoreapp2.0\06.StrategyPattern.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\06.StrategyPattern\obj\Debug\netcoreapp2.0\06.StrategyPattern.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\06.StrategyPattern\obj\Debug\netcoreapp2.0\06.StrategyPattern.dll
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\06.StrategyPattern\obj\Debug\netcoreapp2.0\06.StrategyPattern.pdb

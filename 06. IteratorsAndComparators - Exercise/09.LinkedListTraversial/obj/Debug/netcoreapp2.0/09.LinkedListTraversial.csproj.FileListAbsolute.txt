@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\09.LinkedListTraversial\bin\Debug\netcoreapp2.0\09.LinkedListTraversial.deps.json
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\09.LinkedListTraversial\bin\Debug\netcoreapp2.0\09.LinkedListTraversial.runtimeconfig.json
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\09.LinkedListTraversial\bin\Debug\netcoreapp2.0\09.LinkedListTraversial.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\09.LinkedListTraversial\bin\Debug\netcoreapp2.0\09.LinkedListTraversial.dll
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\09.LinkedListTraversial\bin\Debug\netcoreapp2.0\09.LinkedListTraversial.pdb
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\09.LinkedListTraversial\obj\Debug\netcoreapp2.0\09.LinkedListTraversial.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\09.LinkedListTraversial\obj\Debug\netcoreapp2.0\09.LinkedListTraversial.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\09.LinkedListTraversial\obj\Debug\netcoreapp2.0\09.LinkedListTraversial.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\09.LinkedListTraversial\obj\Debug\netcoreapp2.0\09.LinkedListTraversial.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\09.LinkedListTraversial\obj\Debug\netcoreapp2.0\09.LinkedListTraversial.dll
+D:\VisualStudio2017 Projects\IteratorsAndComparators-Exercise\09.LinkedListTraversial\obj\Debug\netcoreapp2.0\09.LinkedListTraversial.pdb
