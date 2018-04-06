@@ -1,0 +1,22 @@
+C:\Users\david\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.deps.json
+C:\Users\david\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.json
+C:\Users\david\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.dev.json
+C:\Users\david\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.dll
+C:\Users\david\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.pdb
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfo.cs
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.dll
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.pdb
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\07. UnitTesting - Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.deps.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\07. UnitTesting - Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\07. UnitTesting - Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.dev.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\07. UnitTesting - Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\07. UnitTesting - Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.pdb
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\07. UnitTesting - Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.csprojResolveAssemblyReference.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\07. UnitTesting - Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.csproj.CoreCompileInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\07. UnitTesting - Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfoInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\07. UnitTesting - Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfo.cs
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\07. UnitTesting - Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPAdvanced\07. UnitTesting - Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.pdb
