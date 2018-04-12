@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\03.DependancyInversion\bin\Debug\netcoreapp2.0\03.DependancyInversion.deps.json
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\03.DependancyInversion\bin\Debug\netcoreapp2.0\03.DependancyInversion.runtimeconfig.json
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\03.DependancyInversion\bin\Debug\netcoreapp2.0\03.DependancyInversion.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\03.DependancyInversion\bin\Debug\netcoreapp2.0\03.DependancyInversion.dll
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\03.DependancyInversion\bin\Debug\netcoreapp2.0\03.DependancyInversion.pdb
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\03.DependancyInversion\obj\Debug\netcoreapp2.0\03.DependancyInversion.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\03.DependancyInversion\obj\Debug\netcoreapp2.0\03.DependancyInversion.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\03.DependancyInversion\obj\Debug\netcoreapp2.0\03.DependancyInversion.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\03.DependancyInversion\obj\Debug\netcoreapp2.0\03.DependancyInversion.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\03.DependancyInversion\obj\Debug\netcoreapp2.0\03.DependancyInversion.dll
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\03.DependancyInversion\obj\Debug\netcoreapp2.0\03.DependancyInversion.pdb

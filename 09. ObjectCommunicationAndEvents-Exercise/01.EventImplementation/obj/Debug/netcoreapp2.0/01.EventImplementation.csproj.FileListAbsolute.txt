@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\01.EventImplementation\bin\Debug\netcoreapp2.0\01.EventImplementation.deps.json
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\01.EventImplementation\bin\Debug\netcoreapp2.0\01.EventImplementation.runtimeconfig.json
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\01.EventImplementation\bin\Debug\netcoreapp2.0\01.EventImplementation.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\01.EventImplementation\bin\Debug\netcoreapp2.0\01.EventImplementation.dll
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\01.EventImplementation\bin\Debug\netcoreapp2.0\01.EventImplementation.pdb
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\01.EventImplementation\obj\Debug\netcoreapp2.0\01.EventImplementation.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\01.EventImplementation\obj\Debug\netcoreapp2.0\01.EventImplementation.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\01.EventImplementation\obj\Debug\netcoreapp2.0\01.EventImplementation.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\01.EventImplementation\obj\Debug\netcoreapp2.0\01.EventImplementation.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\01.EventImplementation\obj\Debug\netcoreapp2.0\01.EventImplementation.dll
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\01.EventImplementation\obj\Debug\netcoreapp2.0\01.EventImplementation.pdb

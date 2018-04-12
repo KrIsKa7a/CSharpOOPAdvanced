@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\04.WorkForce\bin\Debug\netcoreapp2.0\04.WorkForce.deps.json
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\04.WorkForce\bin\Debug\netcoreapp2.0\04.WorkForce.runtimeconfig.json
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\04.WorkForce\bin\Debug\netcoreapp2.0\04.WorkForce.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\04.WorkForce\bin\Debug\netcoreapp2.0\04.WorkForce.dll
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\04.WorkForce\bin\Debug\netcoreapp2.0\04.WorkForce.pdb
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\04.WorkForce\obj\Debug\netcoreapp2.0\04.WorkForce.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\04.WorkForce\obj\Debug\netcoreapp2.0\04.WorkForce.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\04.WorkForce\obj\Debug\netcoreapp2.0\04.WorkForce.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\04.WorkForce\obj\Debug\netcoreapp2.0\04.WorkForce.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\04.WorkForce\obj\Debug\netcoreapp2.0\04.WorkForce.dll
+D:\VisualStudio2017 Projects\ObjectCommunicationAndEvents-Exercise\04.WorkForce\obj\Debug\netcoreapp2.0\04.WorkForce.pdb
